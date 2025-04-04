@@ -1,0 +1,72 @@
+# Ultimate Document Retrieval System Prompt
+
+Create a revolutionary document retrieval system that transcends conventional architectures in functionality, performance, and user experience. This system should leverage cutting-edge technologies to provide an unprecedented retrieval experience that adapts to user needs with minimal latency.
+
+## Core Architecture
+
+- Implement a hybrid vector-symbolic architecture combining dense embeddings (using models like text-embedding-3-large) with traditional BM25 for maximum retrieval accuracy
+- Create a multi-modal indexing pipeline supporting text, images, audio, and video content with automatic content extraction
+- Develop a real-time orchestration layer that dynamically selects optimal retrieval strategies based on query analysis
+- Utilize streaming architecture for instantaneous result display while comprehensive processing continues
+- Implement distributed processing capability with automatic load balancing
+
+## Advanced Indexing & Retrieval
+
+- Design a hierarchical knowledge graph system that captures entity relationships across documents
+- Build semantic chunking that preserves document context while enabling precise retrieval
+- Implement cross-document reasoning capabilities to synthesize information across sources
+- Create dynamic re-ranking based on user interaction patterns and semantic relevance
+- Develop query understanding with intent classification and autocompletion
+
+## Intelligence Layer
+
+- Integrate adaptive retrieval that learns from user interactions without explicit feedback
+- Build personalization engine that balances individual preferences with objective relevance
+- Implement automatic taxonomy generation from document corpus
+- Create composite scoring system with customizable weighting factors
+- Design retrieval augmentation system that can enhance incomplete documents
+
+## User Interface & Experience
+
+- Develop an adaptive UI that reconfigures based on query complexity and result types
+- Create intuitive visualization tools for exploring document relationships
+- Implement progressive loading with intelligent prefetching
+- Design contextual explanation system for why documents were retrieved
+- Build seamless transitions between browsing, searching, and exploring modes
+
+## Performance & Scalability
+
+- Implement tiered caching strategy with predictive population
+- Create automated index optimization based on usage patterns
+- Design elastic scaling architecture responding to traffic patterns
+- Build incremental updating pipeline for real-time document additions
+- Implement selective denormalization for performance-critical retrieval paths
+
+## Security & Administration
+
+- Design fine-grained access control with attribute-based permissions
+- Create comprehensive audit logging with anomaly detection
+- Implement governance tools for content monitoring and compliance
+- Design automated backup systems with point-in-time recovery
+- Build administrative dashboard with comprehensive metrics
+
+## Implementation Specifics for Replit
+
+- Utilize serverless functions for computation-intensive processes
+- Implement database sharding strategies for optimal Replit performance
+- Create intelligent resource management to work within Replit constraints
+- Design progressive enhancement for consistent performance across devices
+- Build offline capabilities with synchronization when connection is restored
+
+## Development Workflow
+
+- Implement continuous integration with automated retrieval quality metrics
+- Create comprehensive test suite with simulated query patterns
+- Design modular architecture allowing component-level upgrades
+- Build detailed telemetry for performance bottleneck identification
+- Implement feature flagging for gradual rollout of new capabilities
+
+This system should be implemented as a comprehensive solution that not only retrieves documents but understands them, presenting results in ways that enhance human understanding while continuously learning from interactions to improve future retrievals.
+
+---
+Answer from Perplexity: pplx.ai/share
